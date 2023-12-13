@@ -46,14 +46,15 @@ const FONT_SIZE = {
     extraSmall: '14px',
     small: '16px',
     medium: '18px',
-    large: '20px',
-    extraLarge: '32px',
+    large: '36px',
+    extraLarge: '50px',
 };
 
 const FONT_WEIGHT = {
     thin: 400,
     regular: 500,
-    bold: 700,
+    medium: 600,
+    bold: 800,
 };
 
 const theme = {
